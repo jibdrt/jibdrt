@@ -2,5 +2,6 @@
   ![Jean-Baptiste](https://github-readme-stats.vercel.app/api/top-langs/?username=jibdrt&theme=radical&layout=compact)  
   
   Latest webflow integration, animation & interaction with Json object from Blender: https://studio-lesintrepides.com/  
+  (in progress)
   
   Latest Shopify integration : https://serialcolor.art/

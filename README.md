@@ -7,3 +7,4 @@
   Latest Shopify integration : https://serialcolor.art/
   
   CSS & Javascript integration : https://camcha.fr
+  (landing page & offers)

@@ -9,5 +9,5 @@
   Shopify integration : https://serialcolor.art/ - 
                         https://superbee.fr
   
-  CSS, Javascript @ GSAP integration : https://camcha.fr
+  CSS, Javascript & GSAP integration : https://camcha.fr
   (landing page & offers)

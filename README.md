@@ -1,4 +1,4 @@
-  ![Jean-Baptiste](https://github-readme-stats.vercel.app/api/top-langs/?username=jibdrt&theme=radical&layout=compact)  
+
   
   Latest custom wordpress integration : https://maximemassa.com
   

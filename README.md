@@ -1,12 +1,12 @@
 #### 📌 Développement de thèmes WordPress sur mesure  
-- [Château de Fuissé](https://chateau-fuisse.fr)  
-- [Le Vin s'Enhardit](https://levinsenhardit.fr)
-- [Concours des grands vins du monde](https://concoursvinsmonde.com)
-- [World FIRA - Forum International de la Robotique Agricole ](https://world-fira.com)
-- [La Fraternité - Café Français](https://lafraternite-cafefrancais.fr)
+- <a href="https://chateau-fuisse.fr" target="_blank">Château de Fuissé</a>  
+- <a href="https://levinsenhardit.fr" target="_blank">Le Vin s'Enhardit</a>  
+- <a href="https://concoursvinsmonde.com" target="_blank">Concours des grands vins du monde</a>  
+- <a href="https://world-fira.com" target="_blank">World FIRA - Forum International de la Robotique Agricole</a>  
+- <a href="https://lafraternite-cafefrancais.fr" target="_blank">La Fraternité - Café Français</a>  
 
 #### 🎨 Développement Front-End  
-- [Camcha](https://camcha.fr)  
+- <a href="https://camcha.fr" target="_blank">Camcha</a>  
 
-#### 🛍️ Theme Shopify
-- [SuperBee](https://superbee.fr)
+#### 🛍️ Theme Shopify  
+- <a href="https://superbee.fr" target="_blank">SuperBee</a>  
